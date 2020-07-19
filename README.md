@@ -4,15 +4,11 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 
 #### 🌱 Check out what I'm currently working on
 
+- [SquashConsulting/SquashReader](https://github.com/SquashConsulting/SquashReader) (11 days ago) - Modern, Federated, Collaborative RSS Reader.
+- [SquashConsulting/foxx_typescript](https://github.com/SquashConsulting/foxx_typescript) ([](), a long while ago) - ArangoDB Foxx Service Template with TypeScript &amp; Yarn 2.0 Support 
 - [rasjonell/vim_runtime](https://github.com/rasjonell/vim_runtime) - My fork of `amix/vimrc`
-- [rasjonell/learning-oberon](https://github.com/rasjonell/learning-oberon) - Oberon programs I wrote during practice
-- [rasjonell/data-structures-ts](https://github.com/rasjonell/data-structures-ts) - TypeScript implementation of some famous data structures and algorithms.
-- [rasjonell/learning-haskell](https://github.com/rasjonell/learning-haskell) - 
-- [rasjonell/7-langs-7-weeks](https://github.com/rasjonell/7-langs-7-weeks) - My Projects While I Was Reading The Book &#34;Seven Languages In Seven Weeks&#34;
+- [SquashConsulting/ecto_aql](https://github.com/SquashConsulting/ecto_aql) ([](), a long while ago) - Ecto (A)rango (Q)uery (L)anguage database migrations, custom Repo.
 - [rasjonell/dotfiles](https://github.com/rasjonell/dotfiles) - My configs and scripts
-- [rasjonell/elections](https://github.com/rasjonell/elections) - 
-- [rasjonell/elections-data](https://github.com/rasjonell/elections-data) - 
-- [rasjonell/presentations](https://github.com/rasjonell/presentations) - 
 - [rasjonell/zuck_life](https://github.com/rasjonell/zuck_life) - Social Media On Graphs
 
 #### 🔭 Latest releases I've contributed to
@@ -21,12 +17,8 @@ Want your own awesome profile page? Check out [markscribe](https://github.com/mu
 - [tootsuite/mastodon](https://github.com/tootsuite/mastodon) ([](), a long while ago) - Your self-hosted, globally interconnected microblogging community
 - [arangodb-foxx/fine-grained-permissions](https://github.com/arangodb-foxx/fine-grained-permissions) ([](), a long while ago) - Foxx Fine Grained Permissions tutorial
 - [Dalgona/serum-site](https://github.com/Dalgona/serum-site) ([](), a long while ago) - Source code of Serum official website
-- [SquashConsulting/foxx_typescript](https://github.com/SquashConsulting/foxx_typescript) ([](), a long while ago) - ArangoDB Foxx Service Template with TypeScript &amp; Yarn 2.0 Support 
 - [arangodb/docs](https://github.com/arangodb/docs) ([](), a long while ago) - Source code of the ArangoDB online documentation
-- [SquashConsulting/ArangoPhx](https://github.com/SquashConsulting/ArangoPhx) ([](), a long while ago) - Elixir Phoenix Project Template With ArangoDB support
 - [tariqdaouda/covap-backend](https://github.com/tariqdaouda/covap-backend) ([](), a long while ago) - The backend of epitopes.world (AI for COVID-19 vaccine)
-- [SquashConsulting/ecto_aql](https://github.com/SquashConsulting/ecto_aql) ([](), a long while ago) - Ecto (A)rango (Q)uery (L)anguage database migrations, custom Repo.
-- [rasjonell/zuck_life](https://github.com/rasjonell/zuck_life) ([](), a long while ago) - Social Media On Graphs
 
 #### ⚡ My recent blog posts
 
